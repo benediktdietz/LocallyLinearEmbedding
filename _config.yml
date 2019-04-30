@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
+theme_color: black
 title: Locally Linear Embedding
 description: Implementation of Locally Linear Embedding algorithm as presented in 'An Introduction to Locally Linear Embedding'  http://www.cs.columbia.edu/~jebara/6772/papers/lleintro.pdf
