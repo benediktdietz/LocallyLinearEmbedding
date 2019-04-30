@@ -1,6 +1,6 @@
 ## Locally Linear Embedding of MNIST Data using Python
 
-This is an implementation of the algorithm presented in 'An Introduction to Locally Linear Embedding'  (http://www.cs.columbia.edu/~jebara/6772/papers/lleintro.pdf).
+This is an implementation of the algorithm presented in ['An Introduction to Locally Linear Embedding'](http://www.cs.columbia.edu/~jebara/6772/papers/lleintro.pdf).
 
 ### Data
 
