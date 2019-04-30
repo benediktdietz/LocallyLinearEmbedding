@@ -4,7 +4,7 @@ This is an implementation of the algorithm presented in 'An Introduction to Loca
 
 ### Data
 
-I'm using the well known MNIST data set as inoput for my implementation. It is loaded through the sklearn API in this case but also publicly available in many other places. 
+I'm using the well known MNIST data set as input for my implementation. It is loaded through the sklearn API in this case but also publicly available in many other places. 
 
 ### Code
 
